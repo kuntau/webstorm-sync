@@ -260,12 +260,12 @@
         <mark key="." line="37" column="0" />
         <mark key="[" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/index.html" timestamp="1432789090140">
+      <file name="$USER_HOME$/coding/papsb-system/public/index.html" timestamp="1433030095938">
         <mark key="'" line="55" column="0" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="[" line="24" column="19" />
+        <mark key="]" line="7" column="87" />
+        <mark key="^" line="7" column="87" />
+        <mark key="." line="7" column="87" />
+        <mark key="[" line="7" column="73" />
       </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/public/views/home.html" timestamp="1401139541240">
         <mark key="]" line="6" column="0" />
@@ -1338,24 +1338,21 @@
         <text>recusandae</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>- Workshop Module</text>
       </register>
       <register name="3" type="4">
-        <text>controller('$controllerNa</text>
-      </register>
-      <register name="2" type="4">
         <text>common</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>false</text>
+      </register>
+      <register name="1" type="4">
+        <text>- Workshop Module</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdwYXBzYi5jb21tb24nLAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">KGZ1bmN0aW9uICgpIHsKICAndXNlIHN0cmljdCc7CgogIGFuZ3VsYXIKICAgIC5tb2R1bGUoJ3BhcHNiLndvcmtzaG9wJykKICAgIC5jb250cm9sbGVyKCdXb3Jrc2hvcCcsIFdvcmtzaG9wKTsKCiAgV29ya3Nob3AuJGluamVjdCA9IFsnJHNjb3BlJ107CgogIGZ1bmN0aW9uIFdvcmtzaG9wICgkc2NvcGUpIHsKICAgIHZhciB2bSA9IHRoaXM7CgogIH0KCn0pKCk7Cg==</text>
-      </register>
-      <register name="6" type="4">
         <text>(function () {
   'use strict';
 
@@ -1372,7 +1369,7 @@
 
 })();</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(function () {
   'use strict';
 
@@ -1389,7 +1386,7 @@
 
 })();</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(function () {
   'use strict';
 
@@ -1406,18 +1403,19 @@
 
 })();</text>
       </register>
+      <register name="4" type="4">
+        <text>controller('$controllerNa</text>
+      </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>var mambang = function ($scope, blalalal) {
-  klasjdfkljaskldf;
-  c</text>
-      </register>
-      <register name="8" type="4">
         <text>/**
  * Created by kuntau on 28/5/15.
  */</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">KGZ1bmN0aW9uICgpIHsKICAndXNlIHN0cmljdCc7CgogIGFuZ3VsYXIKICAgIC5tb2R1bGUoJ3BhcHNiLndvcmtzaG9wJykKICAgIC5jb250cm9sbGVyKCdXb3Jrc2hvcCcsIFdvcmtzaG9wKTsKCiAgV29ya3Nob3AuJGluamVjdCA9IFsnJHNjb3BlJ107CgogIGZ1bmN0aW9uIFdvcmtzaG9wICgkc2NvcGUpIHsKICAgIHZhciB2bSA9IHRoaXM7CgogIH0KCn0pKCk7Cg==</text>
       </register>
     </registers>
     <search>
