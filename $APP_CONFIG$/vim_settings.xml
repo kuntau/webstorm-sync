@@ -27,12 +27,10 @@
         <mark key="." line="3" column="45" />
         <mark key="[" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" timestamp="1433036290366">
-        <mark key="'" line="2" column="14" />
-        <mark key="]" line="2" column="72" />
-        <mark key="^" line="2" column="72" />
-        <mark key="." line="2" column="72" />
-        <mark key="[" line="2" column="72" />
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" timestamp="1433094707501">
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="[" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/shell.html" timestamp="1417565999926">
         <mark key="]" line="8" column="23" />
@@ -353,11 +351,11 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/general.styl" timestamp="1433036929604">
-        <mark key="]" line="52" column="14" />
-        <mark key="^" line="52" column="14" />
-        <mark key="." line="52" column="14" />
-        <mark key="[" line="52" column="13" />
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/general.styl" timestamp="1433094153206">
+        <mark key="]" line="52" column="9" />
+        <mark key="^" line="52" column="9" />
+        <mark key="." line="52" column="9" />
+        <mark key="[" line="52" column="2" />
       </file>
       <file name="$USER_HOME$/coding/node-spa-partials/public/index.html" timestamp="1408117835050">
         <mark key="]" line="37" column="17" />
@@ -1244,49 +1242,49 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>red</text>
       </register>
       <register name="-" type="4">
-        <text>import</text>
+        <text encoding="base64">ID0gMQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd1aS5yb3V0ZXInLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV4dCgpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ID0gMQ==</text>
       </register>
       <register name="1" type="4">
-        <text>import</text>
+        <text encoding="base64">ID0gMQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd1aS5ib290c3RyYXAnLAo=</text>
+        <text encoding="base64">ICBib3gtc2hhZG93OiAwIG9mZnNldFtkZXB0aF0gYmx1cltkZXB0aF0gcmdiYShibGFjaywgY29sb3JbZGVwdGhdKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>views/</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text encoding="base64">KgogKiBNSVhJTlMtLS0tLS0tLS0tLQogKi8KCgovKiBtYXRlcmlhbCBkZXNpZ24gY2FyZCAqLwptYXRlcmlhbC1zaGFkb3coZGVwdGggPSAxKQogIGJveC1zaGFkb3c6IGJvdHRvbS1zaGFkb3coZGVwdGgpLCB0b3Atc2hhZG93KGRlcHRoKQoKdG9wLXNoYWRvdyhkZXB0aCA9IDEpCiAgb2Zmc2V0ID0gMS41cHggM3B4IDEwcHggMTRweCAxOXB4CiAgYmx1ciA9IDZweCAxMnB4IDQwcHggNTZweCA1NnB4CiAgY29sb3IgPSAuMTIgLjE2IC4xOSAuMjUgLjMwCgogIDAgb2Zmc2V0W2RlcHRoXSBibHVyW2RlcHRoXSByZ2JhKGJsYWNrLCBjb2xvcltkZXB0aF0pCgpib3R0b20tc2hhZG93KGRlcHRoID0gMSkKICBvZmZzZXQgPSAxLjVweCAzcHggNnB4IDEwcHggMTVweAogIGJsdXIgPSA0cHggMTJweCAxMnB4IDIwcHggMjRweAogIGNvbG9yID0gLjI1IC4yMyAuMjMgLjIzIC4yMgoKICA=</text>
       </register>
-      <register name="5" type="4">
-        <text>c</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>workshop/</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="9" type="4">
-        <text>utils.router</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvL2JveC1zaGFkb3c6IDAgb2Zmc2V0W2RlcHRoXSBibHVyW2RlcHRoXSByZ2JhKGJsYWNrLCBjb2xvcltkZXB0aF0pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>bootstrap</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvL2JveC1zaGFkb3c6IDAgdmFsdWVzKGJvdHRvbS1zaGFkb3coZGVwdGgpKSwgMCB2YWx1ZXModG9wLXNoYWRvdyhkZXB0aCkpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>red</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>red</last-pattern>
       <last-replace />
       <last-substitute>\;</last-substitute>
       <last-dir>1</last-dir>
@@ -1320,6 +1318,7 @@
         <entry>toastr</entry>
         <entry>state</entry>
         <entry>true</entry>
+        <entry>red</entry>
       </history-search>
       <history-cmd>
         <entry>%s/signin/login/g</entry>
