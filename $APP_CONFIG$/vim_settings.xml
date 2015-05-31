@@ -15,9 +15,6 @@
         <mark key="." line="5" column="14" />
         <mark key="[" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/app/models/user.js" timestamp="1432665992817">
-        <mark key="'" line="5" column="5" />
-      </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/about.html" timestamp="1417569311789">
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
@@ -54,6 +51,9 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
         <mark key="[" line="6" column="20" />
+      </file>
+      <file name="/__dummy.html" timestamp="1433085313870">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/bower.json" timestamp="1409432087616">
         <mark key="]" line="19" column="28" />
@@ -95,9 +95,6 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
         <mark key="[" line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/views/signin.html" timestamp="1432813953721">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Coding/node-spa-simple-todo/app/models/todo.js" timestamp="1399767288720">
         <mark key="]" line="5" column="15" />
@@ -179,6 +176,9 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
         <mark key="[" line="2" column="25" />
+      </file>
+      <file name="/__dummy.styl" timestamp="1433085313880">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/coding/papsb-system/public/modules/workshop/views/workshop.html" timestamp="1433046873673">
         <mark key="]" line="6" column="45" />
@@ -394,10 +394,11 @@
         <mark key="." line="15" column="39" />
         <mark key="[" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/fonts.styl" timestamp="1433044202734">
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-        <mark key="[" line="33" column="12" />
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/fonts.styl" timestamp="1433085124084">
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="[" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/coding/papsb-system/public/views/footer.html" timestamp="1431466806506">
         <mark key="]" line="3" column="0" />
@@ -1246,40 +1247,40 @@
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>workshop/</text>
+        <text>import</text>
       </register>
-      <register name="3" type="4">
-        <text>workshop/</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICd1aS5yb3V0ZXInLAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICByZXR1cm4gbmV4dCgpCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>import</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICd1aS5ib290c3RyYXAnLAo=</text>
       </register>
       <register name="7" type="4">
-        <text>bootstrap</text>
-      </register>
-      <register name="6" type="4">
         <text>views/</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>a</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>c</text>
+      </register>
+      <register name="4" type="4">
+        <text>workshop/</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cn0pKCk7Cg==</text>
+      <register name="9" type="4">
+        <text>utils.router</text>
       </register>
       <register name="8" type="4">
-        <text>utils.router</text>
+        <text>bootstrap</text>
       </register>
     </registers>
     <search>
