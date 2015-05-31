@@ -46,12 +46,12 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" timestamp="1433035640575">
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" timestamp="1433036290366">
         <mark key="'" line="2" column="14" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="[" line="7" column="26" />
+        <mark key="]" line="2" column="72" />
+        <mark key="^" line="2" column="72" />
+        <mark key="." line="2" column="72" />
+        <mark key="[" line="2" column="72" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/shell.html" timestamp="1417565999926">
         <mark key="]" line="8" column="23" />
@@ -171,6 +171,9 @@
         <mark key="^" line="30" column="88" />
         <mark key="." line="30" column="88" />
         <mark key="[" line="30" column="28" />
+      </file>
+      <file name="/a.dummy" timestamp="1433036515884">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/coding/papsb-system/public/css/styles/general.styl" timestamp="1416759371652">
         <mark key="'" line="19" column="15" />
@@ -448,6 +451,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
         <mark key="[" line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/general.styl" timestamp="1433036929604">
+        <mark key="]" line="52" column="14" />
+        <mark key="^" line="52" column="14" />
+        <mark key="." line="52" column="14" />
+        <mark key="[" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/coding/node-spa-partials/public/index.html" timestamp="1408117835050">
         <mark key="]" line="37" column="17" />
@@ -1345,82 +1354,40 @@
         <text encoding="base64">XDxib3R0b21cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>$silver 0 0 3px</text>
       </register>
       <register name="3" type="4">
-        <text>- Workshop Module</text>
+        <text>30</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>box</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>$silver 0 0 3px</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdwYXBzYi5jb21tb24nLAo=</text>
+        <text encoding="base64">ICAvL2JveC1zaGFkb3cgJHNpbHZlciAwIDAgM3B4Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>(function () {
-  'use strict';
-
-  angular
-    .module('app.workshop')
-    .controller('WorkshopCtrl', WorkshopCtrl);
-
-  WorkshopCtrl.$inject = ['$scope'];
-
-  function WorkshopCtrl ($scope) {
-    var vm = this;
-    
-  }
-
-})();</text>
+        <text>19</text>
       </register>
       <register name="6" type="4">
-        <text>controller('$controllerNa</text>
+        <text>12</text>
       </register>
       <register name="5" type="4">
-        <text>common</text>
+        <text>16</text>
       </register>
       <register name="4" type="4">
-        <text>false</text>
+        <text>19</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>(function () {
-  'use strict';
-
-  angular
-    .module('app.workshop')
-    .controller('Workshop', Workshop);
-
-  Workshop.$inject = [''];
-
-  function Workshop () {
-    var vm = this;
-
-  }
-
-})();</text>
+        <text>10</text>
       </register>
       <register name="8" type="4">
-        <text>(function () {
-  'use strict';
-
-  angular
-    .module('app.workshop')
-    .controller('Workshop', Workshop);
-
-  Workshop.$inject = ['$scope'];
-
-  function Workshop ($scope) {
-    var vm = this;
-    
-  }
-
-})();</text>
+        <text>14</text>
       </register>
     </registers>
     <search>
