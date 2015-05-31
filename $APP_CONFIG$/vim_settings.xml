@@ -3,6 +3,198 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Coding/node-spa-simple-todo/public/core.js" timestamp="1399590625123">
+        <mark key="]" line="40" column="4" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="40" column="4" />
+        <mark key="[" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" timestamp="1433047042623">
+        <mark key="'" line="106" column="17" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="[" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/Coding/papsb-system/public/index.html" timestamp="1423611178389">
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="30" />
+        <mark key="[" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/Coding/papsb-system/public/views/workshop.sidebar.html" timestamp="1416775054980">
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="[" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Coding/node-spa-simple-todo/app/models/todo.js" timestamp="1399767288720">
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="[" line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Coding/node-spa-simple-todo/public/index.html" timestamp="1399767383192">
+        <mark key="]" line="30" column="81" />
+        <mark key="^" line="30" column="81" />
+        <mark key="." line="30" column="81" />
+        <mark key="[" line="30" column="69" />
+      </file>
+      <file name="$USER_HOME$/coding/node-spa-partials/public/css/main.css" timestamp="1408117589689">
+        <mark key="]" line="35" column="16" />
+        <mark key="^" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="[" line="34" column="8" />
+      </file>
+      <file name="$USER_HOME$/Coding/papsb-system/config/passport.js" timestamp="1416777337369">
+        <mark key="]" line="30" column="88" />
+        <mark key="^" line="30" column="88" />
+        <mark key="." line="30" column="88" />
+        <mark key="[" line="30" column="28" />
+      </file>
+      <file name="$USER_HOME$/Coding/papsb-system/public/views/navbar.html" timestamp="1416667301499">
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="[" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Coding/Bootstrap/index.html" timestamp="1376096826868">
+        <mark key="]" line="20" column="47" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="20" column="47" />
+        <mark key="[" line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Jobs/PAPSB/papsb.com.my/index.html" timestamp="1415215782671">
+        <mark key="]" line="106" column="113" />
+        <mark key="^" line="107" column="117" />
+        <mark key="." line="106" column="113" />
+        <mark key="[" line="106" column="113" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/workshop/views/workshop.html" timestamp="1433046873673">
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="[" line="6" column="45" />
+      </file>
+      <file name="/__dummy.styl" timestamp="1433085313880">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Coding/node-spa-partials/public/views/home.index.html" timestamp="1401139569979">
+        <mark key="]" line="2" column="2326" />
+        <mark key="^" line="2" column="2421" />
+        <mark key="." line="2" column="2326" />
+        <mark key="[" line="2" column="2326" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/config/passport.js" timestamp="1432671845779">
+        <mark key="'" line="38" column="47" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="[" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/index.html" timestamp="1433096748878">
+        <mark key="'" line="55" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="24" column="37" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Coding/papsb-system/public/views/contact.html" timestamp="1417569909623">
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="[" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/gulpfile.js" timestamp="1433029134799">
+        <mark key="]" line="64" column="2" />
+        <mark key="^" line="64" column="2" />
+        <mark key="." line="64" column="2" />
+        <mark key="[" line="64" column="2" />
+      </file>
+      <file name="$USER_HOME$/Coding/papsb-system/server.js" timestamp="1416775185883">
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="[" line="32" column="27" />
+      </file>
+      <file name="$USER_HOME$/Coding/node-spa-partials/public/js/controllers/mainCtrl.js" timestamp="1401135648603">
+        <mark key="]" line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="[" line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-workshop/app/models/bus.js" timestamp="1415149591333">
+        <mark key="]" line="43" column="94" />
+        <mark key="^" line="43" column="94" />
+        <mark key="." line="43" column="94" />
+        <mark key="[" line="43" column="27" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/config/db.js" timestamp="1432160831643">
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="[" line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/app.route.js" timestamp="1433046833459">
+        <mark key="]" line="41" column="28" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="82" column="28" />
+        <mark key="[" line="82" column="21" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/.bowerrc" timestamp="1432814182359">
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="[" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/css/styles/variables.styl" timestamp="1416761338999">
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="[" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Coding/node-spa-simple-todo/server.js" timestamp="1399768406899">
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/app.module.js" timestamp="1433045938630">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.module.js" timestamp="1433046973374">
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/general.styl" timestamp="1433108238006">
+        <mark key="[" line="54" column="26" />
+      </file>
+      <file name="$USER_HOME$/coding/node-spa-partials/public/views/login.html" timestamp="1407237231444">
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="14" column="64" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Coding/kuntau.org/style.styl" timestamp="1401053399467">
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="[" line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/views/footer.html" timestamp="1431466806506">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/fonts.styl" timestamp="1433085124084">
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="[" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/coding/papsb-system/app/routes.js" timestamp="1433047119667">
         <mark key="'" line="33" column="4" />
         <mark key="]" line="10" column="0" />
@@ -27,11 +219,12 @@
         <mark key="." line="3" column="45" />
         <mark key="[" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" timestamp="1433095714352">
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="[" line="6" column="8" />
+      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" timestamp="1433107839812">
+        <mark key="'" line="24" column="2" />
+        <mark key="]" line="78" column="1" />
+        <mark key="^" line="78" column="1" />
+        <mark key="." line="78" column="1" />
+        <mark key="[" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/shell.html" timestamp="1417565999926">
         <mark key="]" line="8" column="23" />
@@ -39,20 +232,11 @@
         <mark key="." line="8" column="23" />
         <mark key="[" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Coding/node-spa-simple-todo/public/core.js" timestamp="1399590625123">
-        <mark key="]" line="40" column="4" />
-        <mark key="^" line="38" column="39" />
-        <mark key="." line="40" column="4" />
-        <mark key="[" line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/public/views/home/layout.html" timestamp="1401136032408">
         <mark key="]" line="6" column="23" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
         <mark key="[" line="6" column="20" />
-      </file>
-      <file name="/__dummy.html" timestamp="1433085313870">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/bower.json" timestamp="1409432087616">
         <mark key="]" line="19" column="28" />
@@ -60,12 +244,8 @@
         <mark key="." line="19" column="28" />
         <mark key="[" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" timestamp="1433047042623">
-        <mark key="'" line="106" column="17" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="[" line="14" column="30" />
+      <file name="/__dummy.html" timestamp="1433085313870">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/workshop.html" timestamp="1417571015291">
         <mark key="]" line="20" column="21" />
@@ -77,35 +257,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Coding/papsb-system/public/index.html" timestamp="1423611178389">
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="30" />
-        <mark key="[" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/workshop/workshop.js" timestamp="1432815089621">
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/Coding/papsb-system/public/views/workshop.sidebar.html" timestamp="1416775054980">
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="[" line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/Coding/node-spa-simple-todo/app/models/todo.js" timestamp="1399767288720">
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="[" line="4" column="41" />
-      </file>
-      <file name="$USER_HOME$/Coding/node-spa-simple-todo/public/index.html" timestamp="1399767383192">
-        <mark key="]" line="30" column="81" />
-        <mark key="^" line="30" column="81" />
-        <mark key="." line="30" column="81" />
-        <mark key="[" line="30" column="69" />
       </file>
       <file name="$USER_HOME$/coding/node-spa-partials/public/js/app.js" timestamp="1408118277506">
         <mark key="]" line="86" column="5" />
@@ -119,32 +270,8 @@
         <mark key="." line="3" column="44" />
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/coding/node-spa-partials/public/css/main.css" timestamp="1408117589689">
-        <mark key="]" line="35" column="16" />
-        <mark key="^" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-        <mark key="[" line="34" column="8" />
-      </file>
-      <file name="$USER_HOME$/Coding/papsb-system/config/passport.js" timestamp="1416777337369">
-        <mark key="]" line="30" column="88" />
-        <mark key="^" line="30" column="88" />
-        <mark key="." line="30" column="88" />
-        <mark key="[" line="30" column="28" />
-      </file>
       <file name="/a.dummy" timestamp="1433036515884">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Coding/papsb-system/public/views/navbar.html" timestamp="1416667301499">
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="49" />
-        <mark key="[" line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/views/shell.html" timestamp="1433046398040">
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="37" />
-        <mark key="[" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/app/models/user.js" timestamp="1416776672815">
         <mark key="]" line="26" column="51" />
@@ -152,17 +279,11 @@
         <mark key="." line="26" column="51" />
         <mark key="[" line="26" column="51" />
       </file>
-      <file name="$USER_HOME$/Coding/Bootstrap/index.html" timestamp="1376096826868">
-        <mark key="]" line="20" column="47" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="20" column="47" />
-        <mark key="[" line="20" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Jobs/PAPSB/papsb.com.my/index.html" timestamp="1415215782671">
-        <mark key="]" line="106" column="113" />
-        <mark key="^" line="107" column="117" />
-        <mark key="." line="106" column="113" />
-        <mark key="[" line="106" column="113" />
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/views/shell.html" timestamp="1433046398040">
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="37" />
+        <mark key="[" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Coding/Bootstrap/gitignore" timestamp="1376097020904">
         <mark key="]" line="5" column="4" />
@@ -176,21 +297,6 @@
         <mark key="." line="2" column="27" />
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="/__dummy.styl" timestamp="1433085313880">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/workshop/views/workshop.html" timestamp="1433046873673">
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="[" line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Coding/node-spa-partials/public/views/home.index.html" timestamp="1401139569979">
-        <mark key="]" line="2" column="2326" />
-        <mark key="^" line="2" column="2421" />
-        <mark key="." line="2" column="2326" />
-        <mark key="[" line="2" column="2326" />
-      </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/public/css/main.css" timestamp="1400542245884">
         <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="1" />
@@ -203,41 +309,10 @@
         <mark key="." line="5" column="15" />
         <mark key="[" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/config/passport.js" timestamp="1432671845779">
-        <mark key="'" line="38" column="47" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/index.html" timestamp="1433096748878">
-        <mark key="'" line="55" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/public/views/home.html" timestamp="1401139541240">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/gulpfile.js" timestamp="1433029134799">
-        <mark key="]" line="64" column="2" />
-        <mark key="^" line="64" column="2" />
-        <mark key="." line="64" column="2" />
-        <mark key="[" line="64" column="2" />
-      </file>
-      <file name="$USER_HOME$/Coding/papsb-system/public/views/contact.html" timestamp="1417569909623">
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="[" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Coding/papsb-system/server.js" timestamp="1416775185883">
-        <mark key="]" line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="[" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/coding/papsb-workshop/public/index.html" timestamp="1415313911429">
         <mark key="]" line="33" column="53" />
@@ -245,35 +320,17 @@
         <mark key="." line="33" column="53" />
         <mark key="[" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/Coding/node-spa-partials/public/js/controllers/mainCtrl.js" timestamp="1401135648603">
-        <mark key="]" line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="49" />
-        <mark key="[" line="2" column="49" />
-      </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/js/app.js" timestamp="1417571265919">
         <mark key="]" line="17" column="17" />
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
         <mark key="[" line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-workshop/app/models/bus.js" timestamp="1415149591333">
-        <mark key="]" line="43" column="94" />
-        <mark key="^" line="43" column="94" />
-        <mark key="." line="43" column="94" />
-        <mark key="[" line="43" column="27" />
-      </file>
       <file name="$USER_HOME$/Coding/papsb-system/bower.json" timestamp="1416643282066">
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
         <mark key="[" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/config/db.js" timestamp="1432160831643">
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="1" column="46" />
-        <mark key="." line="1" column="46" />
-        <mark key="[" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/coding/papsb-system/public/views/navbar.html" timestamp="1416740782003">
         <mark key="]" line="10" column="70" />
@@ -293,12 +350,6 @@
         <mark key="." line="0" column="28" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/app.route.js" timestamp="1433046833459">
-        <mark key="]" line="41" column="28" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="82" column="28" />
-        <mark key="[" line="82" column="21" />
-      </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/public/js/controllers/loginCtrl.js" timestamp="1401139638990">
         <mark key="]" line="2" column="51" />
         <mark key="^" line="0" column="33" />
@@ -311,17 +362,11 @@
         <mark key="." line="1" column="24" />
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/.bowerrc" timestamp="1432814182359">
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="[" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/css/styles/variables.styl" timestamp="1416761338999">
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="[" line="8" column="21" />
+      <file name="/Dummy.txt" timestamp="1393994876863">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/coding/papsb-workshop/config/db.js" timestamp="1415134989968">
         <mark key="]" line="1" column="48" />
@@ -329,57 +374,16 @@
         <mark key="." line="1" column="48" />
         <mark key="[" line="1" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1393994876863">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/app.module.js" timestamp="1433045938630">
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Coding/node-spa-simple-todo/server.js" timestamp="1399768406899">
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.module.js" timestamp="1433046973374">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/general.styl" timestamp="1433095832759">
-        <mark key="]" line="52" column="19" />
-        <mark key="^" line="52" column="18" />
-        <mark key="." line="52" column="19" />
-        <mark key="[" line="52" column="18" />
-      </file>
       <file name="$USER_HOME$/coding/node-spa-partials/public/index.html" timestamp="1408117835050">
         <mark key="]" line="37" column="17" />
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="17" />
         <mark key="[" line="37" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/node-spa-partials/public/views/login.html" timestamp="1407237231444">
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="14" column="64" />
-        <mark key="." line="18" column="0" />
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/css/main.css" timestamp="1416659411146">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Coding/kuntau.org/style.styl" timestamp="1401053399467">
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="[" line="4" column="43" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/dashboard.html" timestamp="1416664497624">
         <mark key="]" line="0" column="12" />
@@ -392,17 +396,6 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
         <mark key="[" line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/assets/styles/fonts.styl" timestamp="1433085124084">
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="[" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/views/footer.html" timestamp="1431466806506">
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/public/views/home.message1.html" timestamp="1401137153275">
         <mark key="]" line="2" column="14" />
@@ -418,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="28" filename="$USER_HOME$/Coding/node-spa-partials/public/index.html" />
       <jump line="26" column="12" filename="$USER_HOME$/Coding/node-spa-partials/public/js/app.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Coding/node-spa-partials/public/js/app.js" />
       <jump line="2" column="20" filename="$USER_HOME$/Coding/node-spa-partials/public/views/home/home.html" />
@@ -518,6 +510,7 @@
       <jump line="164" column="16" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="25" column="26" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="106" column="17" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
