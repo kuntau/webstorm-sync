@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/coding/papsb-system/app/routes.js" timestamp="1433047119667">
+      <file name="$USER_HOME$/coding/papsb-system/app/routes.js" timestamp="1441077311418">
         <mark key="'" line="33" column="4" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="[" line="10" column="0" />
+        <mark key="]" line="44" column="18" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="44" column="18" />
+        <mark key="[" line="44" column="18" />
       </file>
       <file name="$USER_HOME$/coding/papsb-system/public/modules/utils/router/router.module.js" timestamp="1433045832060">
         <mark key="]" line="5" column="14" />
@@ -61,12 +62,12 @@
       <file name="/__dummy.html" timestamp="1433085313870">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" timestamp="1433047042623">
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" timestamp="1441077846917">
         <mark key="'" line="106" column="17" />
-        <mark key="]" line="14" column="30" />
+        <mark key="]" line="19" column="1" />
         <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="[" line="14" column="30" />
+        <mark key="." line="19" column="1" />
+        <mark key="[" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/workshop.html" timestamp="1417571015291">
         <mark key="]" line="20" column="21" />
@@ -1242,40 +1243,40 @@
         <text>red</text>
       </register>
       <register name="-" type="4">
-        <text>=+</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text>=+</text>
+        <text>(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICA8IS0tPHRpdGxlPlBBUFNCIElOVEVSTkFMIFBPUlRBTDwvdGl0bGU+LS0+Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgcGFkZGluZyAyMHB4Cgo=</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBib3gtc2hhZG93OiAwIG9mZnNldFtkZXB0aF0gYmx1cltkZXB0aF0gcmdiYShibGFjaywgY29sb3JbZGVwdGhdKQo=</text>
+        <text encoding="base64">ICBhcHAuZ2V0KCcvYXBpL3VzZXInLCBmdW5jdGlvbiAocmVxLCByZXMpIHsKICAgIHJlcy5qc29uKCBmYWtlci5oZWxwZXJzLnVzZXJDYXJkKCkgKQogIH0pOwo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ID0gMQ==</text>
+        <text encoding="base64">IGZha2VyLmhlbHBlcnMudXNlckNhcmQoKSA=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ID0gMQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>5</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ID0gMQ==</text>
+        <text>JSON.stringify</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tPHRpdGxlPlBBUFNCIElOVEVSTkFMIFBPUlRBTDwvdGl0bGU+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgcGFkZGluZyAyMHB4Cgo=</text>
       </register>
     </registers>
     <search>
