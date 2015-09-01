@@ -62,12 +62,12 @@
       <file name="/__dummy.html" timestamp="1433085313870">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" timestamp="1441077846917">
-        <mark key="'" line="106" column="17" />
-        <mark key="]" line="19" column="1" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="19" column="1" />
-        <mark key="[" line="19" column="1" />
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" timestamp="1441078392410">
+        <mark key="'" line="193" column="42" />
+        <mark key="]" line="279" column="55" />
+        <mark key="^" line="279" column="55" />
+        <mark key="." line="279" column="55" />
+        <mark key="[" line="278" column="38" />
       </file>
       <file name="$USER_HOME$/Coding/papsb-system/public/views/workshop.html" timestamp="1417571015291">
         <mark key="]" line="20" column="21" />
@@ -127,6 +127,12 @@
         <mark key="^" line="30" column="88" />
         <mark key="." line="30" column="88" />
         <mark key="[" line="30" column="28" />
+      </file>
+      <file name="$USER_HOME$/coding/papsb-system/public/modules/workshop/workshop.module.js" timestamp="1441078503603">
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="2" />
+        <mark key="[" line="6" column="2" />
       </file>
       <file name="/a.dummy" timestamp="1433036515884">
         <mark key="[" line="0" column="0" />
@@ -200,23 +206,17 @@
         <mark key="." line="5" column="15" />
         <mark key="[" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/config/passport.js" timestamp="1432671845779">
-        <mark key="'" line="38" column="47" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Coding/node-spa-partials/public/views/home.html" timestamp="1401139541240">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/papsb-system/public/index.html" timestamp="1433096748878">
-        <mark key="'" line="55" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/coding/papsb-system/public/index.html" timestamp="1441078544820">
+        <mark key="'" line="57" column="0" />
+        <mark key="]" line="50" column="2" />
         <mark key="^" line="24" column="37" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
+        <mark key="." line="50" column="2" />
+        <mark key="[" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/coding/papsb-system/gulpfile.js" timestamp="1433029134799">
         <mark key="]" line="64" column="2" />
@@ -415,12 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="12" filename="$USER_HOME$/Coding/node-spa-partials/public/js/app.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Coding/node-spa-partials/public/js/app.js" />
-      <jump line="2" column="20" filename="$USER_HOME$/Coding/node-spa-partials/public/views/home/home.html" />
-      <jump line="2" column="2" filename="$USER_HOME$/Coding/node-spa-partials/public/views/home.message2.html" />
-      <jump line="55" column="6" filename="$USER_HOME$/coding/node-spa-partials/public/js/app.js" />
-      <jump line="7" column="3" filename="$USER_HOME$/coding/papsb-workshop/server.js" />
       <jump line="76" column="2" filename="$USER_HOME$/coding/papsb-workshop/public/js/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Jobs/PAPSB/papsb.com.my/css/style.css" />
       <jump line="23" column="14" filename="$USER_HOME$/coding/papsb-workshop/server.js" />
@@ -509,12 +503,18 @@
       <jump line="201" column="6" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="165" column="20" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="5" column="22" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
-      <jump line="14" column="33" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="15" column="28" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="164" column="16" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="25" column="26" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="106" column="17" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
       <jump line="24" column="2" filename="$USER_HOME$/coding/papsb-system/public/assets/styles/mixin.styl" />
+      <jump line="13" column="20" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
+      <jump line="28" column="9" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
+      <jump line="124" column="6" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
+      <jump line="192" column="0" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
+      <jump line="14" column="36" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
+      <jump line="193" column="42" filename="$USER_HOME$/coding/papsb-system/public/modules/core/core.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1240,49 +1240,49 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>red</text>
+        <text>function ui</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
-      </register>
-      <register name="3" type="4">
-        <text>(</text>
-      </register>
-      <register name="2" type="4">
-        <text>)</text>
-      </register>
-      <register name="1" type="4">
-        <text>;</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhcHAuZ2V0KCcvYXBpL3VzZXInLCBmdW5jdGlvbiAocmVxLCByZXMpIHsKICAgIHJlcy5qc29uKCBmYWtlci5oZWxwZXJzLnVzZXJDYXJkKCkgKQogIH0pOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGZha2VyLmhlbHBlcnMudXNlckNhcmQoKSA=</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0ibW9kdWxlcy9jb3JlL2NvcmUubW9kdWxlLmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHNyYz0ibW9kdWxlcy9jb3JlL2NvcmUuanMiPjwvc2NyaXB0Pgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2YXIgdm0gPSB0aGlzOwp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>UI</text>
       </register>
       <register name="4" type="4">
-        <text>JSON.stringify</text>
+        <text>UI</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICA8IS0tPHRpdGxlPlBBUFNCIElOVEVSTkFMIFBPUlRBTDwvdGl0bGU+LS0+Cg==</text>
+      <register name="9" type="4">
+        <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcGFkZGluZyAyMHB4Cgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gQ2hhcnRDdHJsKCkgewo=</text>
       </register>
     </registers>
     <search>
-      <last-search>red</last-search>
+      <last-search>function ui</last-search>
       <last-offset />
-      <last-pattern>red</last-pattern>
+      <last-pattern>function ui</last-pattern>
       <last-replace />
       <last-substitute>\;</last-substitute>
       <last-dir>1</last-dir>
@@ -1310,6 +1310,8 @@
         <entry>state</entry>
         <entry>true</entry>
         <entry>red</entry>
+        <entry>bsholder</entry>
+        <entry>function ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/signin/login/g</entry>
