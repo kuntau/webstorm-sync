@@ -1,27 +1,27 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta A" />
-    <keyboard-shortcut first-keystroke="shift meta P" />
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta N" />
-    <keyboard-shortcut first-keystroke="meta P" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
 </keymap>

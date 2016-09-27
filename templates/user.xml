@@ -1,47 +1,14 @@
 <templateSet group="user">
   <template name="clog" value="console.log($END$);" description="Console Log" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="XML_TEXT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JS_EXPRESSION" value="false" />
       <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="ngmodule" value="(function () {&#10;  'use strict';&#10;&#10;  angular.module('$name$',[$dependencies$]);&#10;&#10;})();" description="AngularJS Module" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="dependencies" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="XML_TEXT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JS_EXPRESSION" value="false" />
-      <option name="JSX_HTML" value="false" />
       <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="ngcontroller" value="(function () {&#10;  'use strict';&#10;&#10;  angular&#10;    .module('$appName$.$moduleName$')&#10;    .controller('$controllerName$',$controllerName$);&#10;    &#10;  $controllerName$.$inject = ['$deps$'];&#10;  &#10;  function $controllerName$($deps$) {&#10;    var vm = this;&#10;    $END$&#10;  }&#10;&#10;})();" description="AngularJS Controller" toReformat="true" toShortenFQNames="true">
